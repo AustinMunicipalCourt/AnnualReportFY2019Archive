@@ -32,12 +32,19 @@ html, body {
 }
 
 a:link {
-    color: #fff;
+    color: #fff !important;
+    text-decoration: underline;
 }
 
 a:hover {
-    color: red;
+  color: red;
 }
+
+a:active {
+  color:white !important;
+}
+
+
 
 .main {
   width: 100%;
