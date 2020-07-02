@@ -220,7 +220,7 @@ a:active {
     background-image: url('Goal7Image.JPG');
   }
   &.nav-8 {
-    background-image: url('Accessibility.jpg');
+    background-image: url('CustomerService.JPG');
   }
   &.nav-9 {
     background-image: url('IMG1.JPG');
@@ -265,7 +265,7 @@ a:active {
     @include setBg('Goal7Image.JPG');
   }
   &.section-8 {
-    @include setBg('Accessibility.jpg');
+    @include setBg('CustomerService.JPG');
   }
   &.section-9 {
     @include setBg('IMG1.JPG');
