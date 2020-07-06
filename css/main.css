@@ -18,6 +18,10 @@ a:link {
   color: #fff !important;
   text-decoration: underline; }
 
+a:visited {
+  color: #fff !important;
+  text-decoration: underline; }
+
 a:hover {
   color: red; }
 
@@ -310,7 +314,7 @@ a:active {
   top: 11.2rem;
   left: 2rem;
   right: 2rem;
-  font-size: 2rem;
+  font-size: 1.5rem;
   text-transform: uppercase;
   font-family: ptsans-regular;
   background: rgba(0, 0, 0, 0.4); }
@@ -319,7 +323,7 @@ a:active {
   top: 23.6rem;
   left: 2rem;
   right: 2rem;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-family: ptsans-regular;
   background: rgba(0, 0, 0, 0.4); }
 
